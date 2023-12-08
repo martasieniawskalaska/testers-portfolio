@@ -19,4 +19,3 @@ Knowledge ISTQB FL
 SQL
 SCRUM
 Python - in progress
-
