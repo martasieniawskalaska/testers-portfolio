@@ -11,11 +11,11 @@ Browserstack
 SLACK  
 
 
-🛠️ Main Skills: 
-Creating test case
-Creating scenarios
-Reporting bugs
+🛠️ Main Skills:   
+Creating test cases  
+Creating scenarios  
+Reporting bugs  
 Knowledge ISTQB FL
 SQL
 SCRUM
-Python - in progress
+Python basics  
