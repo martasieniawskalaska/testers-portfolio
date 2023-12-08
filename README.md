@@ -20,9 +20,3 @@ SQL
 SCRUM
 Python - in progress
 
-Bug report skleptest.pl: Bug report in Jira
-Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
-Bug reports https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
-Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
-Dare IT Challenge Automation Tests + Python ➡️Link to repository
-Robot Framework repository ➡️Link to repository
