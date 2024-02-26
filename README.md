@@ -6,7 +6,7 @@ Jira, Confluence, Xray - issue tracking and project management tool for develope
 Postman - restAPI testing (my certification: https://badgr.com/public/assertions/IFmqSxOLTraoyo3hhFgqWA)   
 Test Rail, Test Link  
 Git   
-Replit (basics)   
+JMeter
 Browserstack  
 SLACK  
 
@@ -17,5 +17,4 @@ Creating scenarios
 Reporting bugs  
 Knowledge ISTQB FL
 SQL
-SCRUM
 Python basics  
